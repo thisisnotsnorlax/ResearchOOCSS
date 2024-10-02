@@ -1,0 +1,54 @@
+/* Structure */
+.card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+/* Skin */
+.card--primary {
+  background-color: #e7f3fe;
+  color: #333;
+}
+
+.card--secondary {
+  background-color: #fff3e7;
+  color: #333;
+}
+
+/* Container Styles */
+.card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+/* Skin Styles */
+.card--primary {
+  background-color: #e7f3fe;
+}
+
+.card--secondary {
+  background-color: #fff3e7;
+}
+
+/* Content-Styles */
+.title--large {
+  font-size: 2em;
+  color: #4caf50;
+}
+
+.title--small {
+  font-size: 1.5em;
+  color: #f44336;
+}
+
+.content--highlight {
+  font-weight: bold;
+}
+
+.content--normal {
+  color: #333;
+}
